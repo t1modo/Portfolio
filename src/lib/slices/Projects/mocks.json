@@ -1,0 +1,74 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "difficult",
+				"type": "Text"
+			},
+			"group": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "symbol",
+									"type": "Text"
+								}
+							],
+							[
+								"role",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "work",
+									"type": "Text"
+								}
+							],
+							[
+								"time_period",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "history",
+									"type": "Text"
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Culpa duis est ipsum aute consectetur ullamco ex est excepteur magna laborum exercitation quis minim."
+											}
+										}
+									]
+								}
+							],
+							[
+								"github_link",
+								{
+									"__TYPE__": "LinkContent",
+									"key": "4841a240-3b5e-424e-94de-f8c6f00e32b3",
+									"value": {
+										"__TYPE__": "ExternalLink",
+										"url": "https://prismic.io",
+										"text": "against"
+									}
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
