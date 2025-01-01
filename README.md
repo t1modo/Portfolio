@@ -18,9 +18,11 @@ Here are some highlights of my internship experience:
 
 ### Engineering Success Research Intern at SJSU – College of Engineering - Sept 2023 – April 2024
 #### **Responsibilities & Achievements**:
-- Researched AR/VR/XR applications for enhancing university-level education using the Meta Quest 3 headset.
-- Explored existing technologies to simulate physics phenomena and visualize complex 3D processes.
-- Evaluated accessibility, cost-efficiency, and UX considerations of AR/VR/XR integration in learning environments.
+- Researched AR technology to simulate physics phenomena, visualizing wave mechanics and 3D vector fields.
+- Applied Dr. Peter Beyersdorf’s research to explore AR’s role in immersive and accessible physics education.
+- Showcased AR tools as cost-effective replacements for “wet” labs, improving accessibility and reducing costs.
+- Tested AR Physics applications on the Meta Quest 3, assessing user interaction and simulation precision.
+- Identified challenges like motion sickness and high costs, proposing strategies to improve AR integration.
 
 ## 📂 Projects
 
@@ -43,17 +45,16 @@ I have worked on various projects that demonstrate my skills and knowledge. Here
 
 ## 🛠️ Skills
 
-- **Languages**: Java & JavaScript
-- **Frameworks & Libraries**: React Native, Next.js, Node.js, and JavaFX
-- **Tools**: Git, Eclipse, VSCode, Scene Builder, and Vercel
-- **Databases**: Firebase & SQLite
+- **Programming**: Java, JavaScript, TypeScript, HTML, CSS
+- **Technologies**: JavaFX, Firebase, SQLite, React Native, React.js, Expo, Tailwind CSS, Svelte
+- **Tools**: Git, GitHub, Scene Builder, Vercel, Eclipse, Visual Studio Code
 
 ## 📬 Contact Me
 
 If you’d like to get in touch, feel free to reach out to me at:
 
 - Email: tim.do.info@gmail.com
-- LinkedIn: [Timothy Do](https://www.linkedin.com/in/t1modo/)
+- LinkedIn: [Timothy Do](https://www.linkedin.com/in/timothykhangdo/)
 - GitHub: [t1modo](https://github.com/t1modo)
 
 ## License
