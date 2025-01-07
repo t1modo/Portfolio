@@ -28,20 +28,25 @@ Here are some highlights of my internship experience:
 
 I have worked on various projects that demonstrate my skills and knowledge. Here are a few of my key projects:
 
-### LuneType
-- **Description**: A web app that helps users practice typing by destroying falling asteroids through correct word input and features various difficulty levels to accommodate different skill levels, along with a leaderboard to track top players' scores.
-- **Technologies**: React, Firebase, CSS, and Vercel.
-- **Link**: [GitHub](https://github.com/t1modo/LuneType) | [Demo](https://lune-type.vercel.app/)
+### NotiTron
+- **Description**: A Discord bot designed to help students and users keep track of upcoming assignments and due dates. With NotiTron, users can add tasks, receive notifications when assignments are nearing their due dates (within 24 hours), and have expired tasks automatically removed from the system.
+- **Technologies**: discord.py, MongoDB, pymongo
+- **Link**: [GitHub](https://github.com/t1modo/NotiTron)
+
+### Clever Cash
+- **Description**: A desktop application designed to help users manage their finances effectively. It provides features for tracking accounts, managing transactions, and generating reports, enabling users to gain insights into their financial activities.
+- **Technologies**: JavaFX, Scene Builder, and SQLite.
+- **Link**: [GitHub](https://github.com/SeanAminov/CleverCash)
 
 ### RemindMe
 - **Description**: An iOS app for students to track assignments and stay organized. It allows users to add due dates and receive 24-hour reminders, ensuring timely task management through a simple, user-friendly interface.
 - **Technologies**: React, React Native, Expo, and Firebase.
 - **Link**: [GitHub](https://github.com/t1modo/RemindMe)
 
-### Clever Cash
-- **Description**: A desktop application designed to help users manage their finances effectively. It provides features for tracking accounts, managing transactions, and generating reports, enabling users to gain insights into their financial activities.
-- **Technologies**: JavaFX, Scene Builder, and SQLite.
-- **Link**: [GitHub](https://github.com/SeanAminov/CleverCash)
+### LuneType
+- **Description**: A web app that helps users practice typing by destroying falling asteroids through correct word input and features various difficulty levels to accommodate different skill levels, along with a leaderboard to track top players' scores.
+- **Technologies**: React, Firebase, CSS, and Vercel.
+- **Link**: [GitHub](https://github.com/t1modo/LuneType) | [Demo](https://lune-type.vercel.app/)
 
 ## 🛠️ Skills
 
