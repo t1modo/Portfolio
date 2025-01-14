@@ -29,7 +29,7 @@ Here are some highlights of my internship experience:
 I have worked on various projects that demonstrate my skills and knowledge. Here are a few of my key projects:
 
 ### NotiTron
-- **Description**: A Discord bot designed to help students and users keep track of upcoming assignments and due dates. With NotiTron, users can add tasks, receive notifications when assignments are nearing their due dates (within 24 hours), and have expired tasks automatically removed from the system.
+- **Description**: NotiTron is a Discord bot designed to assist students and users in managing their assignments and due dates. It allows users to add tasks, receive timely reminders for upcoming deadlines, and ensures expired tasks are automatically cleaned from the system.
 - **Technologies**: discord.py, MongoDB, pymongo
 - **Link**: [GitHub](https://github.com/t1modo/NotiTron)
 
