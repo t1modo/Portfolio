@@ -46,8 +46,8 @@ I have worked on various projects that demonstrate my skills and knowledge. Here
 
 ## 🛠️ Skills
 
-- **Programming**: Java, JavaScript, TypeScript, HTML, CSS
-- **Technologies**: JavaFX, Firebase, SQLite, React Native, React.js, Expo, Tailwind CSS, Svelte
+- **Programming**: Java, JavaScript, Python, TypeScript, HTML, CSS
+- **Technologies**: JavaFX, Firebase, MongoDB, SQLite, React Native, React.js, Expo, Tailwind CSS, Svelte, pymongo, discord.py
 - **Tools**: Git, GitHub, Scene Builder, Vercel, Eclipse, Visual Studio Code
 
 ## 📬 Contact Me
