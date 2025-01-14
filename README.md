@@ -28,25 +28,21 @@ Here are some highlights of my internship experience:
 
 I have worked on various projects that demonstrate my skills and knowledge. Here are a few of my key projects:
 
-### NotiTron
+### [NotiTron](https://github.com/t1modo/NotiTron)
 - **Description**: NotiTron is a Discord bot designed to assist students and users in managing their assignments and due dates. It allows users to add tasks, receive timely reminders for upcoming deadlines, and ensures expired tasks are automatically cleaned from the system.
 - **Technologies**: discord.py, MongoDB, pymongo
-- **Link**: [GitHub](https://github.com/t1modo/NotiTron)
 
-### Clever Cash
+### [Clever Cash](https://github.com/SeanAminov/CleverCash)
 - **Description**: A desktop application designed to help users manage their finances effectively. It provides features for tracking accounts, managing transactions, and generating reports, enabling users to gain insights into their financial activities.
 - **Technologies**: JavaFX, Scene Builder, and SQLite.
-- **Link**: [GitHub](https://github.com/SeanAminov/CleverCash)
 
-### RemindMe
+### [RemindMe](https://github.com/t1modo/RemindMe)
 - **Description**: An iOS app for students to track assignments and stay organized. It allows users to add due dates and receive 24-hour reminders, ensuring timely task management through a simple, user-friendly interface.
 - **Technologies**: React, React Native, Expo, and Firebase.
-- **Link**: [GitHub](https://github.com/t1modo/RemindMe)
 
-### LuneType
+### [LuneType](https://github.com/t1modo/LuneType) | [Demo](https://lune-type.vercel.app/)
 - **Description**: A web app that helps users practice typing by destroying falling asteroids through correct word input and features various difficulty levels to accommodate different skill levels, along with a leaderboard to track top players' scores.
 - **Technologies**: React, Firebase, CSS, and Vercel.
-- **Link**: [GitHub](https://github.com/t1modo/LuneType) | [Demo](https://lune-type.vercel.app/)
 
 ## 🛠️ Skills
 
