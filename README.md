@@ -10,7 +10,7 @@ Welcome to my personal portfolio website. Here, you'll find an overview of my pr
 
 Hello! I'm Timothy, an aspiring Software Engineer. I have a strong passion for software development. Over the years, I've gained experience in a variety of technologies, including Firebase, React Native, Expo, JavaFX, Scene Builder, and Vercel.
 
-I believe in continuous learning and am always looking to expand my knowledge and skills. When I'm not coding, I enjoy playing video games and working out at the gym.
+I believe in continuous learning and am always looking to expand my knowledge and skills. When I'm not coding, I enjoy ~long walks at the beach~ playing video games and working out at the gym.
 
 ## 🏆 Internship Experience
 
