@@ -16,8 +16,12 @@ I believe in continuous learning and am always looking to expand my knowledge an
 
 Here are some highlights of my internship experience:
 
-### Engineering Success Research Intern at SJSU – College of Engineering - Sept 2023 – April 2024
-#### **Responsibilities & Achievements**:
+### Research Intern - LLM Research | Algoverse | Jan 2025 - Present
+#### Responsibilities & Achievements:
+TBD
+
+### Engineering Success Research Intern | San Jose State University | Sept 2023 – April 2024
+#### Responsibilities & Achievements:
 - Researched AR technology to simulate physics phenomena, visualizing wave mechanics and 3D vector fields.
 - Applied Dr. Peter Beyersdorf’s research to explore AR’s role in immersive and accessible physics education.
 - Showcased AR tools as cost-effective replacements for “wet” labs, improving accessibility and reducing costs.
