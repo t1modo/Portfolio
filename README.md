@@ -16,7 +16,7 @@ I believe in continuous learning and am always looking to expand my knowledge an
 
 Here are some highlights of my internship experience:
 
-### Research Intern - LLM Research | Algoverse | Jan 2025 - Present
+### LLM Research Intern | Algoverse | Jan 2025 - Present
 #### Responsibilities & Achievements:
 TBD
 
