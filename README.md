@@ -32,21 +32,20 @@ TBD
 
 I have worked on various projects that demonstrate my skills and knowledge. Here are a few of my key projects:
 
-### [NotiTron](https://github.com/t1modo/NotiTron)
+### [Eventory](https://github.com/t1modo/Eventory) | Next.js, Tailwind CSS, WebSocket, PostgreSQL, Vercel
+- **Description**: ...
+
+### [NotiTron](https://github.com/t1modo/NotiTron) | Python, MongoDB
 - **Description**: NotiTron is a Discord bot designed to assist students and users in managing their assignments and due dates. It allows users to add tasks, receive timely reminders for upcoming deadlines, and ensures expired tasks are automatically cleaned from the system.
-- **Technologies**: discord.py, MongoDB, pymongo
 
-### [Clever Cash](https://github.com/SeanAminov/CleverCash)
+### [Clever Cash](https://github.com/SeanAminov/CleverCash) | JavaFX, Scene Builder, SQLite
 - **Description**: A desktop application designed to help users manage their finances effectively. It provides features for tracking accounts, managing transactions, and generating reports, enabling users to gain insights into their financial activities.
-- **Technologies**: JavaFX, Scene Builder, and SQLite.
 
-### [RemindMe](https://github.com/t1modo/RemindMe)
+### [RemindMe](https://github.com/t1modo/RemindMe) | React Native, Expo, Firebase
 - **Description**: An iOS app for students to track assignments and stay organized. It allows users to add due dates and receive 24-hour reminders, ensuring timely task management through a simple, user-friendly interface.
-- **Technologies**: React, React Native, Expo, and Firebase.
 
-### [LuneType](https://github.com/t1modo/LuneType) | [Demo](https://lune-type.vercel.app/)
+### [LuneType](https://github.com/t1modo/LuneType) | [Demo](https://lune-type.vercel.app/) | React, CSS, Firebase, Vercel
 - **Description**: A web app that helps users practice typing by destroying falling asteroids through correct word input and features various difficulty levels to accommodate different skill levels, along with a leaderboard to track top players' scores.
-- **Technologies**: React, Firebase, CSS, and Vercel.
 
 ## 🛠️ Skills
 
