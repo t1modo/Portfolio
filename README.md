@@ -18,7 +18,9 @@ Here are some highlights of my internship experience:
 
 ### AI Research Intern | Algoverse | Jan 2025 - Present
 #### Responsibilities & Achievements:
-TBD
+- Conducting research on Large Language Models (LLMs) in the Algoverse AI Research Program.
+- Collaborating in a small, mentored team to explore LLM behavior and capabilities.
+- Preparing findings for submission to top AI conferences like NeurIPS and EMNLP.
 
 ### Engineering Success Research Intern | San Jose State University | Sept 2023 – April 2024
 #### Responsibilities & Achievements:
