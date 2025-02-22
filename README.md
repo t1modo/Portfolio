@@ -18,17 +18,16 @@ Here are some highlights of my internship experience:
 
 ### AI Research Intern | Algoverse | Jan 2025 - Present
 #### Responsibilities & Achievements:
-- Conducting research on Large Language Models (LLMs) in the Algoverse AI Research Program.
-- Collaborating in a small, mentored team to explore LLM behavior and capabilities.
-- Preparing findings for submission to top AI conferences like NeurIPS and EMNLP.
+- Conducting research on Large Language Models, analyzing their behavior and capabilities.
+- Collaborating in a small, mentored team to explore LLM applications and improvements.
+- Contributing to research findings aimed for submission to AI conferences in May 2025.
 
 ### Engineering Success Research Intern | San Jose State University | Sept 2023 – April 2024
 #### Responsibilities & Achievements:
 - Researched AR technology to simulate physics phenomena, visualizing wave mechanics and 3D vector fields.
 - Applied Dr. Peter Beyersdorf’s research to explore AR’s role in immersive and accessible physics education.
-- Showcased AR tools as cost-effective replacements for “wet” labs, improving accessibility and reducing costs.
+- Proposed AR tools as cost-effective alternatives to traditional labs, demonstrating potential cost reductions of 40–60%.
 - Tested AR Physics applications on the Meta Quest 3, assessing user interaction and simulation precision.
-- Identified challenges like motion sickness and high costs, proposing strategies to improve AR integration.
 
 ## 📂 Projects
 
@@ -51,8 +50,8 @@ I have worked on various projects that demonstrate my skills and knowledge. Here
 
 ## 🛠️ Skills
 
-- **Programming**: Java, JavaScript, Python, TypeScript, HTML, CSS
-- **Technologies**: JavaFX, Firebase, MongoDB, SQLite, React Native, React.js, Expo, Tailwind CSS, Svelte, pymongo, discord.py
+- **Programming**: Java, JavaScript, Python, HTML, CSS
+- **Technologies**: JavaFX, Firebase, MongoDB, PostgreSQL, SQLite, React Native, React, Expo, Tailwind CSS, WebSocket
 - **Tools**: Git, GitHub, Scene Builder, Vercel, Eclipse, Visual Studio Code
 
 ## 📬 Contact Me
