@@ -8,13 +8,17 @@ Welcome to my personal portfolio website. Here, you'll find an overview of my pr
 
 ## 🧑‍💻 About Me
 
-Hello! I'm Timothy, an aspiring Software Engineer. I have a strong passion for software development. Over the years, I've gained experience in a variety of technologies, including Firebase, React Native, Expo, JavaFX, Scene Builder, and Vercel.
+Hello! I'm Timothy, an aspiring Software Engineer. I have a strong passion for software development. Over the years, I've gained experience in a variety of technologies for fullstack development. I recently got the chance to contribute to AI and ML research at Algoverse. I am also excited to intern at SLAC this summer as well to conduct some research regarding AI.
 
 I believe in continuous learning and am always looking to expand my knowledge and skills. When I'm not coding, I enjoy ~long walks on the beach~ playing video games and working out at the gym.
 
 ## 🏆 Internship Experience
 
 Here are some highlights of my internship experience:
+
+### Science Undergraduate Laboratory Intern | SLAC National Accelerator Laboratory | June 2025 - Present
+#### Responsibilities & Achievements:
+- Incoming Summer 2025
 
 ### AI Research Intern | Algoverse | Jan 2025 - Present
 #### Responsibilities & Achievements:
@@ -33,7 +37,7 @@ Here are some highlights of my internship experience:
 
 I have worked on various projects that demonstrate my skills and knowledge. Here are a few of my key projects:
 
-### [Eventory](https://github.com/t1modo/Eventory) | Next.js, Tailwind CSS, WebSocket, PostgreSQL, Vercel
+### [Eventory](https://github.com/t1modo/Eventory) | Next.js, Tailwind CSS, WebSocket, Supabase, Vercel
 - **Description**: ...
 
 ### [NotiTron](https://github.com/t1modo/NotiTron) | Python, MongoDB
