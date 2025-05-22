@@ -32,10 +32,10 @@ Here are some highlights of my internship experience:
 
 ### Engineering Success Research Intern | San Jose State University | Sept 2023 – April 2024
 #### Responsibilities & Achievements:
-- Researched AR technology to simulate physics phenomena, visualizing wave mechanics and 3D vector fields.
-- Applied Dr. Peter Beyersdorf’s research to explore AR’s role in immersive and accessible physics education.
-- Proposed AR tools as cost-effective alternatives to traditional labs, demonstrating potential cost reductions of 40–60%.
-- Tested AR Physics applications on the Meta Quest 3, assessing user interaction and simulation precision.
+- Researched AR technology to simulate physics phenomena, visualizing wave mechanics and 3D vector fields
+- Applied Dr. Peter Beyersdorf’s research to explore AR’s role in immersive and accessible physics education
+- Proposed AR-driven virtual labs as a likely cost-effective alternative, with estimated savings of 30% over 3–5 years
+- Tested AR Physics applications on the Meta Quest 3, assessing user interaction and simulation precision
 
 ## 📬 Contact Me
 
