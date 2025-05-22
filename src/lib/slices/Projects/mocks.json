@@ -51,18 +51,6 @@
 										}
 									]
 								}
-							],
-							[
-								"github_link",
-								{
-									"__TYPE__": "LinkContent",
-									"key": "4841a240-3b5e-424e-94de-f8c6f00e32b3",
-									"value": {
-										"__TYPE__": "ExternalLink",
-										"url": "https://prismic.io",
-										"text": "against"
-									}
-								}
 							]
 						]
 					}
