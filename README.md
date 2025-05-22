@@ -18,13 +18,17 @@ Here are some highlights of my internship experience:
 
 ### Science Undergraduate Laboratory Intern | SLAC National Accelerator Laboratory | June 2025 - Present
 #### Responsibilities & Achievements:
-- Incoming Summer 2025
+- Developing physics-informed neural networks to predict simulation results in accelerator physics and EM analysis
+- Optimizing Python-based simulations on HPC systems for complex physical modeling
+- Integrating ML frameworks with computational physics tools to accelerate workflows and improve accuracy
+- Collaborating with domain experts to ensure AI models align with physical laws and experimental data
 
-### AI Research Intern | Algoverse | Jan 2025 - Present
+### AI Research Intern | Algoverse | Jan 2025 - May 2025
 #### Responsibilities & Achievements:
-- Conducting research on Large Language Models, analyzing their behavior and capabilities.
-- Collaborating in a small, mentored team to explore LLM applications and improvements.
-- Contributing to research findings aimed for submission to AI conferences in May 2025.
+- Utilized a hybrid mBERT+BiLSTM model for figurative language detection, trained on low-resource Konkani
+- Achieved an accuracy of 83% for idiom classification and 78% for metaphor classification
+- Preserved 100% of original accuracy on idiom classification while pruning attention heads
+- Achieved 88% accuracy retention on metaphor classification tasks through strategic model parameter reduction
 
 ### Engineering Success Research Intern | San Jose State University | Sept 2023 – April 2024
 #### Responsibilities & Achievements:
@@ -32,31 +36,6 @@ Here are some highlights of my internship experience:
 - Applied Dr. Peter Beyersdorf’s research to explore AR’s role in immersive and accessible physics education.
 - Proposed AR tools as cost-effective alternatives to traditional labs, demonstrating potential cost reductions of 40–60%.
 - Tested AR Physics applications on the Meta Quest 3, assessing user interaction and simulation precision.
-
-## 📂 Projects
-
-I have worked on various projects that demonstrate my skills and knowledge. Here are a few of my key projects:
-
-### [Eventory](https://github.com/t1modo/Eventory) | Next.js, Tailwind CSS, WebSocket, Supabase, Vercel
-- **Description**: ...
-
-### [NotiTron](https://github.com/t1modo/NotiTron) | Python, MongoDB
-- **Description**: NotiTron is a Discord bot designed to assist students and users in managing their assignments and due dates. It allows users to add tasks, receive timely reminders for upcoming deadlines, and ensures expired tasks are automatically cleaned from the system.
-
-### [Clever Cash](https://github.com/SeanAminov/CleverCash) | JavaFX, Scene Builder, SQLite
-- **Description**: A desktop application designed to help users manage their finances effectively. It provides features for tracking accounts, managing transactions, and generating reports, enabling users to gain insights into their financial activities.
-
-### [RemindMe](https://github.com/t1modo/RemindMe) | React Native, Expo, Firebase
-- **Description**: An iOS app for students to track assignments and stay organized. It allows users to add due dates and receive 24-hour reminders, ensuring timely task management through a simple, user-friendly interface.
-
-### [LuneType](https://github.com/t1modo/LuneType) | [Demo](https://lune-type.vercel.app/) | React, CSS, Firebase, Vercel
-- **Description**: A web app that helps users practice typing by destroying falling asteroids through correct word input and features various difficulty levels to accommodate different skill levels, along with a leaderboard to track top players' scores.
-
-## 🛠️ Skills
-
-- **Programming**: Java, JavaScript, Python, HTML, CSS
-- **Technologies**: JavaFX, Firebase, MongoDB, PostgreSQL, SQLite, React Native, React, Expo, Tailwind CSS, WebSocket
-- **Tools**: Git, GitHub, Scene Builder, Vercel, Eclipse, Visual Studio Code
 
 ## 📬 Contact Me
 
