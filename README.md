@@ -23,7 +23,7 @@ Here are some highlights of my internship experience:
 - Integrating ML frameworks with computational physics tools to accelerate workflows and improve accuracy
 - Collaborating with domain experts to ensure AI models align with physical laws and experimental data
 
-### AI Research Intern | Algoverse | Jan 2025 - May 2025
+### Artificial Intelligence Research Intern | Algoverse | Jan 2025 - May 2025
 #### Responsibilities & Achievements:
 - Utilized a hybrid mBERT+BiLSTM model for figurative language detection, trained on low-resource Konkani
 - Achieved an accuracy of 83% for idiom classification and 78% for metaphor classification
