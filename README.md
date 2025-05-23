@@ -4,7 +4,7 @@ Welcome to my portfolio! This site showcases my skills, experience, and projects
 
 ## 📍 Home
 
-Welcome to my personal portfolio website. Here, you'll find an overview of my professional background, experience, and a collection of projects that I've worked on. I'm passionate about building user-friendly web applications and solving complex data problems. Feel free to browse through the sections to learn more about me!
+Welcome to my personal portfolio website. Here, you'll find an overview of my professional background and experiences. I'm passionate about building user-friendly web applications and solving complex data problems. Feel free to browse through the sections to learn more about me!
 
 ## 🧑‍💻 About Me
 
